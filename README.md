@@ -39,7 +39,9 @@ API com CRUD de estudantes(students).
 
 🙆‍♀️ <b>Edição do estudante</b>
 
-![Tela no MongoDB da lista de estudantes](https://github.com/Erika-Skarda/integrado/blob/main/Supplier.png)
+![Tela no MongoDB da lista de estudantes](https://github.com/Erika-Skarda/student--mongo/blob/main/Capturar.PNG)
+![Tela no MongoDB da lista de estudantes](https://github.com/Erika-Skarda/student--mongo/blob/main/update.PNG)
+![Tela no MongoDB da lista de estudantes](https://github.com/Erika-Skarda/student--mongo/blob/main/insert.png)
  
 ## Como rodar a aplicação :arrow_forward:
 
