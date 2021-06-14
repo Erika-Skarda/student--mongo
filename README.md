@@ -23,7 +23,7 @@ API criada em NodeJs e o banco não-relacional MongoDB.
 
 ## 💻 Projeto
 
-API com CRUD de estudantes(students).
+API com CRUD de estudantes(students). Foi usado a biblioteca handlebars para poder visualizar o funcionamento das rotas.
 
 ## Backend(Funcionalidades):
 
@@ -73,6 +73,7 @@ Criar database StudentDB
 - [Javascript](https://www.javascript.com/)
 - [NodeJs](https://nodejs.org/en/download)
 - [Express](https://expressjs.com/)
+- [Handlebars](https://handlebarsjs.com/)
 
 ### Banco de dados:
 
