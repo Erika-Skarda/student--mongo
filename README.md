@@ -38,6 +38,8 @@ API com CRUD de estudantes(students).
 🙆‍♀️ <b>Pegar estudante pelo ID</b>
 
 🙆‍♀️ <b>Edição do estudante</b>
+
+![Tela no MongoDB da lista de estudantes](https://github.com/Erika-Skarda/integrado/blob/main/Supplier.png)
  
 ## Como rodar a aplicação :arrow_forward:
 
